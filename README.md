@@ -1,6 +1,9 @@
 # drone
 model - XAG P100
 
+## anti jamming module 
+ PMT-RL31 anti-jamming GNSS module 
+
 ## Issues
 Patthanawit Tumboon
 
