@@ -13,3 +13,5 @@
     - I will use the PWM control instead of CAN ports
  
       ![image](https://github.com/user-attachments/assets/f6ce3077-69f0-46f7-941e-14dcc1554345)
+
+- for stepping down, recommended by AI for stepping down - LM2596HV 
