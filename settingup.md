@@ -6,6 +6,7 @@
   ![image](https://github.com/user-attachments/assets/9e5ba677-e3b4-40b3-a71f-298a574a9fff)
 
 - Battery type - Rechargable Lithium-ion Battery, 22000 mah, 1170.4 Wh, norminal voltage 53.2 V, charging limit voltage 60.9 V,
+- Power Supply Module for 14S battery - PM06D (must include D - PM06D - 14S)
 
 - Motor - X9 plus, 13kg per axis
     - yellow, red, green wire
