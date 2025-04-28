@@ -14,4 +14,9 @@
  
       ![image](https://github.com/user-attachments/assets/f6ce3077-69f0-46f7-941e-14dcc1554345)
 
-- for stepping down, recommended by AI for stepping down - LM2596HV 
+- for stepping down, recommended by AI for stepping down - LM2596HV
+
+- For setting up the motors
+
+  ![image](https://github.com/user-attachments/assets/348bc6e1-c481-4d36-bf05-5d00e99a7955)
+
