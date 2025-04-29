@@ -22,7 +22,7 @@
 
 - for stepping down, recommended by AI for stepping down - LM2596HV
 
-- For setting up the motors
+## For setting up the motors
 
   ![image](https://github.com/user-attachments/assets/348bc6e1-c481-4d36-bf05-5d00e99a7955)
 
@@ -49,13 +49,18 @@
    ![image](https://github.com/user-attachments/assets/5089db27-4990-4216-9d2a-31675b065e6f)
 
 
-- Flight Modes Setup
+## Flight Modes Setup
 - The following is from https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache
 
   ![image](https://github.com/user-attachments/assets/10360e60-693d-4d7c-9170-02784cc3015f)
 
-
-- camera settings
+- It seems that most setup three modes: Stabalize, Altitude and Position
+- 
+- Stabalize mode : Provides basic stabilization and allows the pilot to control the vehicle's orientation.
+- Altitute Hold : Maintains a constant altitude while allowing for manual control of pitch and roll.
+- Position Control : Uses GPS to maintain the vehicle's position and allows for manual control of pitch and yaw.
+  
+## Camera settings
     - C12 Dual Light Gimbal
     - rtsp://192.168.144.108:554/stream=0 (source: https://www.youtube.com/watch?v=M4pU3FTgW3M&ab_channel=WorldDroneMarket)
     - Three wires are connected
@@ -80,7 +85,7 @@
       - Hobbywing UBEC 10 A (source: https://www.3dxr.co.uk/electronics-c78/power-management-c91/voltage-regulators-becs-c101/hobbywing-10a-ubec-hv-3-14s-v1-p5805)
   - He used the stick to control the servo (https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
 
-Battery Specifications:
+## Battery Specifications: (source: https://genstattu.com/tattu-plus-3-0-22000mah-51-8v-25c-14s1p-lipo-smart-battery-pack-with-molex-plug/)
 
 - Minimum Capacity: 22000mAh
 - Configuration: 14S1P / 51.8V / 14Cells
@@ -96,3 +101,7 @@ How to calculate battery voltage
    - The nominal voltage of a 12S battery is 44.4V, calculated as 12 cells multiplied by the nominal voltage of each cell (3.7V). 
 - Maximum Voltage:
    - When fully charged, each cell in a 12S battery can reach 4.2V, resulting in a maximum voltage of 50.4V (12 cells x 4.2V). 
+
+## Arm Switch 
+ - It says it should be on the left (source at 4:00 : https://www.youtube.com/watch?v=xQkusMZzug0&ab_channel=DroneBlocks )
+##
