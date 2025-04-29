@@ -26,10 +26,11 @@
 
   ![image](https://github.com/user-attachments/assets/348bc6e1-c481-4d36-bf05-5d00e99a7955)
 
-- Radio Control
+## Radio Control
      - Skydroid H30
      - password : 999 (source: https://www.youtube.com/watch?v=IAyYyI09_TQ&ab_channel=WorldDroneMarket)
   - Setting up for Rado Channel (source: https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
+  - In H12 Pro, the receiver Baud rate used is 57600 (source: https://www.youtube.com/watch?v=LMz7lrE9wDA&ab_channel=WorldDroneMarket)
 
       ![image](https://github.com/user-attachments/assets/e81bfe4a-72bd-46cb-9bcb-4b199ca7f90d)
 
