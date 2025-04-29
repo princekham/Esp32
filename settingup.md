@@ -47,3 +47,10 @@
    - Working frequence: 50-333Hz
    - Operating travel:180deg（PWM 500-2500mus）
    - Size: 40 x 20 x 40.5 mm ( 1.58 x 0.79 x 1.60 in)
+
+How to calculate battery voltage
+
+- Nominal Voltage:
+   - The nominal voltage of a 12S battery is 44.4V, calculated as 12 cells multiplied by the nominal voltage of each cell (3.7V). 
+- Maximum Voltage:
+   - When fully charged, each cell in a 12S battery can reach 4.2V, resulting in a maximum voltage of 50.4V (12 cells x 4.2V). 
