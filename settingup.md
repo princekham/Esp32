@@ -40,4 +40,10 @@
 
 - servo motor (source: https://www.aliexpress.com/item/1005007384750005.html)
    - Operating Voltage: 4.8 ~ 6.8 DC Volts
-   - 
+   - Dead brand: 3mus
+   - Weight: 60 g (2.12 oz)
+   - Motor Type: DC Motor
+   - Gear Type: Copper & Aluminum
+   - Working frequence: 50-333Hz
+   - Operating travel:180deg（PWM 500-2500mus）
+   - Size: 40 x 20 x 40.5 mm ( 1.58 x 0.79 x 1.60 in)
