@@ -59,6 +59,8 @@
 - Stabalize mode : Provides basic stabilization and allows the pilot to control the vehicle's orientation.
 - Altitute Hold : Maintains a constant altitude while allowing for manual control of pitch and roll.
 - Position Control : Uses GPS to maintain the vehicle's position and allows for manual control of pitch and yaw.
+
+- 'Emergency Kill Switch' s a safety feature that allows for immediate and forceful disarming of the motors in an emergency. It's a mechanism to stop the vehicle's motors in situations where software malfunctions, loss of control, or other critical issues arise. 
   
 ## Camera settings
     - C12 Dual Light Gimbal
