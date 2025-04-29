@@ -5,6 +5,11 @@
   
   ![image](https://github.com/user-attachments/assets/9e5ba677-e3b4-40b3-a71f-298a574a9fff)
 
+  ![image](https://github.com/user-attachments/assets/5d48cfe6-f391-4fe4-9ddf-1855835b31c1)
+
+  (image source: https://docs.px4.io/main/en/airframes/airframe_reference.html)
+
+
 - Battery type - Rechargable Lithium-ion Battery, 22000 mah, 1170.4 Wh, norminal voltage 53.2 V, charging limit voltage 60.9 V,
 - Power Supply Module for 14S battery - PM06D (must include D - PM06D - 14S)
 
