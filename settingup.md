@@ -47,6 +47,9 @@
    - Working frequence: 50-333Hz
    - Operating travel:180deg（PWM 500-2500mus）
    - Size: 40 x 20 x 40.5 mm ( 1.58 x 0.79 x 1.60 in)
+   - it consumes around 5A each
+   - Options
+      - Hobbywing UBEC 10 A (source: https://www.3dxr.co.uk/electronics-c78/power-management-c91/voltage-regulators-becs-c101/hobbywing-10a-ubec-hv-3-14s-v1-p5805)
 
 How to calculate battery voltage
 
