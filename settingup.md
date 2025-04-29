@@ -38,6 +38,10 @@
 
     ![image](https://github.com/user-attachments/assets/df20d25c-b638-4125-afa4-c2dd0b30593a)
 
+  - And we can set up the signal alert from the 'Fly GCS' (see 7:21: https://www.youtube.com/watch?v=LMz7lrE9wDA&ab_channel=WorldDroneMarket)
+
+
+
 
       ![image](https://github.com/user-attachments/assets/e81bfe4a-72bd-46cb-9bcb-4b199ca7f90d)
 
