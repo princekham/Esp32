@@ -80,6 +80,16 @@
       - Hobbywing UBEC 10 A (source: https://www.3dxr.co.uk/electronics-c78/power-management-c91/voltage-regulators-becs-c101/hobbywing-10a-ubec-hv-3-14s-v1-p5805)
   - He used the stick to control the servo (https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
 
+Battery Specifications:
+
+- Minimum Capacity: 22000mAh
+- Configuration: 14S1P / 51.8V / 14Cells
+- Discharge Rate: 25C
+- Net Weight(±20g): 8800g
+- Dimensions: 279mm Length x 236mm Width x 91mm Height
+- Charge Plug: Molex-43045-1600
+- Discharge Plug: Molex-46562-2657
+
 How to calculate battery voltage
 
 - Nominal Voltage:
