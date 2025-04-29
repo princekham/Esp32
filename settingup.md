@@ -37,3 +37,7 @@
       - For IP setting, see below (source: https://www.youtube.com/watch?v=L_87hoQ0i18&ab_channel=WorldDroneMarket)
      
         ![image](https://github.com/user-attachments/assets/7d839c55-0c9c-4ada-a6b0-653e3b2169bf)
+
+- servo motor (source: https://www.aliexpress.com/item/1005007384750005.html)
+   - Operating Voltage: 4.8 ~ 6.8 DC Volts
+   - 
