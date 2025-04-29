@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c205e1eb-6560-43f6-a892-9c54dad111ad)
+
 
 # Setting Up
 - Airframe Type 
