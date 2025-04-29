@@ -69,6 +69,7 @@
    - it consumes around 5A each
    - Options
       - Hobbywing UBEC 10 A (source: https://www.3dxr.co.uk/electronics-c78/power-management-c91/voltage-regulators-becs-c101/hobbywing-10a-ubec-hv-3-14s-v1-p5805)
+  - He used the stick to control the servo (https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
 
 How to calculate battery voltage
 
