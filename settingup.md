@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/c205e1eb-6560-43f6-a892-9c54dad111ad)
 
 # Setting Up
 - Airframe Type 
@@ -44,6 +44,9 @@
  
     ![image](https://github.com/user-attachments/assets/9038cf8d-8943-4910-b3ce-b2510ee4543f)
 
+ - The following is the standard control assignment to a radio controller (source: https://docs.px4.io/v1.11/en/flying/basic_flying.html)
+
+   ![image](https://github.com/user-attachments/assets/5089db27-4990-4216-9d2a-31675b065e6f)
 
 
 - Flight Modes Setup
