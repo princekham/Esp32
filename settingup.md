@@ -29,7 +29,16 @@
 - Radio Control
      - Skydroid H30
      - password : 999 (source: https://www.youtube.com/watch?v=IAyYyI09_TQ&ab_channel=WorldDroneMarket)
+  - Setting up for Rado Channel (source: https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
 
+      ![image](https://github.com/user-attachments/assets/e81bfe4a-72bd-46cb-9bcb-4b199ca7f90d)
+
+     - Channel 1 : engine throttle
+     - Channel 2 : Yaw
+     - Channel 3 : Pitch
+     - Channel 4 : Roll
+     - Channel 5 : Fmode
+     - Channel 6 : Arm
 
 
 - camera settings
