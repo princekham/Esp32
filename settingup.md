@@ -42,7 +42,8 @@
    
   - Roll, Pitch, Yaw Channel setup can be seen at 'Parameters' by filtering 'rc_map'
  
-    ![image](https://github.com/user-attachments/assets/0d1e0276-5e81-44aa-a1fb-522c680105d0)
+    ![image](https://github.com/user-attachments/assets/9038cf8d-8943-4910-b3ce-b2510ee4543f)
+
 
 
 - Flight Modes Setup
