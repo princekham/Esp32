@@ -33,6 +33,7 @@
   - In H12 Pro, the receiver Baud rate used is 57600 (source: https://www.youtube.com/watch?v=LMz7lrE9wDA&ab_channel=WorldDroneMarket)
   - The Qgroundcontrol for android can be downloaded from https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
   - There are 32 bits and 64 bits versions for android and it is said 32 bits is for older android versions.
+  - I found that 'FLY GCS' app can also be used along with Qgroundcontrol. It is said it is more user-friendly. (source 6:40 : https://www.youtube.com/watch?v=LMz7lrE9wDA&ab_channel=WorldDroneMarket) 
 
       ![image](https://github.com/user-attachments/assets/e81bfe4a-72bd-46cb-9bcb-4b199ca7f90d)
 
