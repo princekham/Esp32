@@ -40,6 +40,11 @@
      - Channel 5 : Fmode
      - Channel 6 : Arm
 
+- Flight Modes Setup
+- The following is from https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache
+
+  ![image](https://github.com/user-attachments/assets/10360e60-693d-4d7c-9170-02784cc3015f)
+
 
 - camera settings
     - C12 Dual Light Gimbal
