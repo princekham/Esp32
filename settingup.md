@@ -39,6 +39,11 @@
      - Channel 4 : Roll
      - Channel 5 : Fmode
      - Channel 6 : Arm
+   
+  - Roll, Pitch, Yaw Channel setup can be seen at 'Parameters' by filtering 'rc_map'
+ 
+    ![image](https://github.com/user-attachments/assets/0d1e0276-5e81-44aa-a1fb-522c680105d0)
+
 
 - Flight Modes Setup
 - The following is from https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache
