@@ -29,6 +29,7 @@
 ## Radio Control
      - Skydroid H30
      - password : 999 (source: https://www.youtube.com/watch?v=IAyYyI09_TQ&ab_channel=WorldDroneMarket)
+     - the range of H30 controller is found to be 30 km ( source: https://www.foxtechfpv.com/h30-30km-gcs.html#:~:text=H30%20is%20a%20portable%20ground,rc%20transmission%20range%20is%2030km.)
   - Setting up for Rado Channel (source: https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
   - In H12 Pro, the receiver Baud rate used is 57600 (source: https://www.youtube.com/watch?v=LMz7lrE9wDA&ab_channel=WorldDroneMarket)
   - The Qgroundcontrol for android can be downloaded from https://docs.qgroundcontrol.com/master/en/qgc-user-guide/getting_started/download_and_install.html
