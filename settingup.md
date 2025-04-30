@@ -1,6 +1,11 @@
 
 
 # Setting Up
+
+### Frame Model
+- G630 (https://store.effort-tech.com/products/fully-automatic-operation-g630-agriculture-drone-frame-kit-include-8l-brushless-water-pump-and-rtk-fixing-parts-component?VariantsId=10826)
+- More Specs at (https://www.effort-tech.com/en/gxs)
+
 - Airframe Type 
   
   ![image](https://github.com/user-attachments/assets/9e5ba677-e3b4-40b3-a71f-298a574a9fff)
