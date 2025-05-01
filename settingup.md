@@ -2,6 +2,10 @@
 
 # Setting Up
 
+References
+- https://www.youtube.com/watch?v=BNzeVGD8IZI&ab_channel=AlexFache
+- 
+
 ### Frame Model
 - G630 (https://store.effort-tech.com/products/fully-automatic-operation-g630-agriculture-drone-frame-kit-include-8l-brushless-water-pump-and-rtk-fixing-parts-component?VariantsId=10826)
 - More Specs at (https://www.effort-tech.com/en/gxs)
