@@ -32,6 +32,7 @@ References
 - for stepping down, recommended by AI for stepping down - LM2596HV
 
 ## For setting up the motors
+  - Calibration for PWM maxium for ESC can be done under 'Power' 
 
   ![image](https://github.com/user-attachments/assets/348bc6e1-c481-4d36-bf05-5d00e99a7955)
 
