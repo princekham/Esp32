@@ -71,7 +71,7 @@ References
 - Channel 3 - Engine Throttle (အင်ဂျင်အား အတင်အချ)
 - Channel 4 - Yaw (ဘယ်ညာ လှည့်တာ)
 - Channel 5 - 
-  Channel 6 - 
+- Channel 6 - 
 
 
    
