@@ -1,3 +1,9 @@
 # Proximity Sensor
 
-- model 
+- model - HLK-LD2420
+- 
+
+
+# Distance Sensor
+
+- model - DT0118 v2
