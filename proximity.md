@@ -11,6 +11,7 @@
 - model - DTS6012M
 - Specifications at (https://www.polarisic.com/uploads/soft/20240412/1712905580.pdf)
 - pin outs can be found at (https://www.paioutech.com/uploadfile/202403/ea1ff3f6934bae8.pdf)
+- more complete specs in Chinese (https://www.paioutech.com/uploadfile/202406/104fa6ddcebbe93.pdf)
 
   ![image](https://github.com/user-attachments/assets/a8e454d0-c96d-40c8-ada3-52d6cebd27a8)
 
