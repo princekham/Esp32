@@ -9,3 +9,4 @@
 # Distance Sensor
 
 - model - DTS6012M
+- Specifications at (https://www.polarisic.com/uploads/soft/20240412/1712905580.pdf)
