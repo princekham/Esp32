@@ -1,8 +1,9 @@
-# Radio Channels
-- Channel 1 - Engine
-- Chaannel 2 -Yaw
-- Channel 3 - Pitch
-- Channel 4 - Row
+# Radio Channels Setup 
+- H30 Rado controller has different channels for row, pitch, yaw, throttle. The following is my setup for it.
+- Channel 1 - Roll (ဘယ်သွား ညာသွား) 
+- Chaannel 2 - Pitch (ရှေ့သွား နောက်ဆုတ်)
+- Channel 3 - Engine Throttle (အင်ဂျင်အား အတင်အချ)
+- Channel 4 - Yaw (ဘယ်ညာ လှည့်တာ)
 - Channel 5 - FMode
   Channel 6 - Arm
-- (source _ https://www.youtube.com/watch?v=w40P1CQQ9Ls&ab_channel=AlexFache )
+
