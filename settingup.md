@@ -21,7 +21,7 @@ References
 
 - Battery type - Rechargable Lithium-ion Battery, 22000 mah, 1170.4 Wh, norminal voltage 53.2 V, charging limit voltage 60.9 V,
 - Power Supply Module for 14S battery - PM06D (must include D - PM06D - 14S)
-
+- Because high power PM02D is used, I need to enable SENS_EN_INA228 (and disable SENS_EN_INA226) (source: https://www.bzbuas.com/shop/15011-pm02d-12s-power-module-497)
 - Motor - X9 plus, 13kg per axis
     - yellow, red, green wire
     - black and white wire
