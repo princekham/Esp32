@@ -15,6 +15,10 @@
 - pin outs can be found at (https://www.paioutech.com/uploadfile/202403/ea1ff3f6934bae8.pdf)
 - more complete specs in Chinese (https://www.paioutech.com/uploadfile/202406/104fa6ddcebbe93.pdf)
 
+### Pins connection
+- I will use the 3.3 V pin from the ESP32 to power the sensor; I will need to use seperate power supply if required.
+- 
+
   ![image](https://github.com/user-attachments/assets/a8e454d0-c96d-40c8-ada3-52d6cebd27a8)
 
 - The following is the translation by lens
