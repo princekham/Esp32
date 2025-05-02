@@ -17,10 +17,21 @@
 
 ### Pins connection
 - I will use the 3.3 V pin from the ESP32 to power the sensor; I will need to use seperate power supply if required.
-- 
+
+
+  ![image](https://github.com/user-attachments/assets/e39caa35-80b5-430c-9f15-8935aa86c0f2)
 
   ![image](https://github.com/user-attachments/assets/a8e454d0-c96d-40c8-ada3-52d6cebd27a8)
 
 - The following is the translation by lens
 
-  ![image](https://github.com/user-attachments/assets/e017522d-c177-40c7-8eca-71bfdad9bb08)
+ ![image](https://github.com/user-attachments/assets/408104b3-3d9e-4c46-9838-8b347b4740b1)
+
+ ### Harware interface
+
+ ![image](https://github.com/user-attachments/assets/e4d2d04c-b3a3-4dec-a31e-eee9496a2cbc)
+
+ ![image](https://github.com/user-attachments/assets/29226cb3-2922-45e9-81cd-bc11285e6afd)
+
+ ![image](https://github.com/user-attachments/assets/68f7249e-ed03-4d20-b243-b9b61d3a6c3d)
+
