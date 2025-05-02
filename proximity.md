@@ -9,6 +9,8 @@
 # Distance Sensor
 
 - model - DTS6012M
+- It supports both I2C and UART and I will choose to use UART for faster speed.
+- And I found its UART baud rate to be: 921600 (it's its max rate, I think)
 - Specifications at (https://www.polarisic.com/uploads/soft/20240412/1712905580.pdf)
 - pin outs can be found at (https://www.paioutech.com/uploadfile/202403/ea1ff3f6934bae8.pdf)
 - more complete specs in Chinese (https://www.paioutech.com/uploadfile/202406/104fa6ddcebbe93.pdf)
