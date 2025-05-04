@@ -37,7 +37,7 @@ References
   ![image](https://github.com/user-attachments/assets/348bc6e1-c481-4d36-bf05-5d00e99a7955)
 
 ## Radio Control
-     - Skydroid H30
+     - Skydroid H30 (page: https://www.worldronemarket.com/skydroid-h30-r30/)
      - password : 999 (source: https://www.youtube.com/watch?v=IAyYyI09_TQ&ab_channel=WorldDroneMarket)
      - the range of H30 controller is found to be 30 km ( source: https://www.foxtechfpv.com/h30-30km-gcs.html#:~:text=H30%20is%20a%20portable%20ground,rc%20transmission%20range%20is%2030km.)
      - specifications at (https://www.worldronemarket.com/skydroid-h30-r30/)
@@ -98,17 +98,26 @@ References
 - 'Emergency Kill Switch' s a safety feature that allows for immediate and forceful disarming of the motors in an emergency. It's a mechanism to stop the vehicle's motors in situations where software malfunctions, loss of control, or other critical issues arise. 
   
 ## Camera settings
-    - C12 Dual Light Gimbal (https://www.worldronemarket.com/skydroid-c12-user-manual/)
-    - rtsp://192.168.144.108:554/stream=0 (source: https://www.youtube.com/watch?v=M4pU3FTgW3M&ab_channel=WorldDroneMarket)
-    - Three wires are connected
-      - S Bus + power cable for the radio hub
-      - Lan + Power supply
-      - Transmission cable
-      - For IP setting, see below (source: https://www.youtube.com/watch?v=L_87hoQ0i18&ab_channel=WorldDroneMarket)
-     
-        ![image](https://github.com/user-attachments/assets/7d839c55-0c9c-4ada-a6b0-653e3b2169bf)
 
-- servo motor (source: https://www.aliexpress.com/item/1005007384750005.html)
+  - C12 Dual Light Gimbal (https://www.worldronemarket.com/skydroid-c12-user-manual/)
+  - rtsp://192.168.144.108:554/stream=0 (source: https://www.youtube.com/watch?v=M4pU3FTgW3M&ab_channel=WorldDroneMarket)
+  - Three wires are connected
+  - S Bus + power cable for the radio hub
+  - Lan + Power supply
+  - Transmission cable
+  - For IP setting, see below (source: https://www.youtube.com/watch?v=L_87hoQ0i18&ab_channel=WorldDroneMarket)
+     
+![image](https://github.com/user-attachments/assets/7d839c55-0c9c-4ada-a6b0-653e3b2169bf)
+
+ - Connection Diagram provided by the technician
+
+![image](https://github.com/user-attachments/assets/11df2c82-f61b-4898-b7d1-bae6ab0cf45a)
+
+        
+![image](https://github.com/user-attachments/assets/789c0db4-c0cf-4baa-b0a7-19ecbcdeaf56)
+
+
+## servo motor (source: https://www.aliexpress.com/item/1005007384750005.html)
    - Operating Voltage: 4.8 ~ 6.8 DC Volts
    - Dead brand: 3mus
    - Weight: 60 g (2.12 oz)
