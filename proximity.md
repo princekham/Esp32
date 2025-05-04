@@ -10,6 +10,13 @@
 - data sheet (https://www.infineon.com/dgdl/Infineon-AN608_BGT60LTR11AIP_Shield-ApplicationNotes-v01_80-EN.pdf?fileId=5546d4627550f4540175558b817a4d22)
 - prince - 42.09 $
 
+## BGT60LTR11AIP
+- link (https://www.infineon.com/cms/en/product/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar/bgt60ltr11aip/)
+- prince 10$
+- Up to 7 m detection range for human targets
+- https://uk.rs-online.com/web/p/rf-ics/2344631?cm_mmc=aff2-_-uk-_-octopart-_-2344631-_-instock&gad_source=7&dclid=CJiJ6KmviY0DFZWKrAIdVvsP5A
+- detail datasheet at https://www.infineon.com/dgdl/Infineon-BGT60LTR11(S)AIP-DataSheet-v02_61-EN.pdf?fileId=8ac78c8c7c9758f2017cb7b72ee5268e
+
 # Distance Sensor
 
 - model - DTS6012M
