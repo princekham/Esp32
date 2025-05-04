@@ -89,8 +89,13 @@ References
 
   ![image](https://github.com/user-attachments/assets/10360e60-693d-4d7c-9170-02784cc3015f)
 
-- It seems that most setup three modes: Stabalize, Altitude and Position
-- 
+
+
+- It seems that most setup three modes: Hold, Altitude and Position
+
+  
+  ![image](https://github.com/user-attachments/assets/ff0e692a-3bf6-401e-8bda-8064145b132d)
+ 
 - Stabalize mode : Provides basic stabilization and allows the pilot to control the vehicle's orientation.
 - Altitute Hold : Maintains a constant altitude while allowing for manual control of pitch and roll.
 - Position Control : Uses GPS to maintain the vehicle's position and allows for manual control of pitch and yaw.
