@@ -5,6 +5,10 @@
 - manual is available at (https://uelectronics.com/wp-content/uploads/2023/06/AR3645-LD2420-Sensor-de-Presencia-Humana-Datasheet.pdf?srsltid=AfmBOooTt_I4uQ0sFUNee2PMi0sGWq3HPKBJ8i6UkE_va0NRxrG-ETG3)
 - Tools can be downloaded from (https://h.hlktech.com/Mobile/download/fdetail/225.html)
 
+## SHIELD_AUTONOM_BGT60
+- link (https://www.infineon.com/cms/en/product/evaluation-boards/shield_autonom_bgt60/)
+- data sheet (https://www.infineon.com/dgdl/Infineon-AN608_BGT60LTR11AIP_Shield-ApplicationNotes-v01_80-EN.pdf?fileId=5546d4627550f4540175558b817a4d22)
+- prince - 42.09 $
 
 # Distance Sensor
 
