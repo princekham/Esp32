@@ -155,4 +155,9 @@ How to calculate battery voltage
 
 ## Arm Switch 
  - It says it should be on the left (source at 4:00 : https://www.youtube.com/watch?v=xQkusMZzug0&ab_channel=DroneBlocks )
-##
+## Landing
+ - For setting landing altitute 'mpc_land_alt1', 'mpc_land_alt2' and 'mpc_land_alt3'
+ - For landing decent rate 'mpc_land_speed'
+ - For max decent and ascent rate 'MPC_Z_VEL_MAX_DN' 'MPC_Z_VEL_MAX_UP'
+ - For max decent and ascent rate in autonomous mode ' MPC_Z_V_AUTO_DN' MPC_Z_V_AUTO_UP
+ - 
