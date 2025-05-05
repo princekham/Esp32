@@ -19,6 +19,7 @@
 
 ## IWR6843ABGABL
  - data sheet at (https://www.ti.com/document-viewer/IWR6843/datasheet)
+ - price - 31 $
 
 # Distance Sensor
 
