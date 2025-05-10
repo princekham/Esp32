@@ -11,3 +11,6 @@
   - u-blox ZED-F9P (Dual-Band L1/L2 RTK)
   - Septentrio Mosaic-X5 (Military-Grade Anti-Jamming)
   - https://ardupilot.org/copter/docs/common-here-plus-gps.html
+ 
+## For sensing GPS jammer
+- use two GPS and check the inconsistency
