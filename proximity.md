@@ -17,6 +17,8 @@
 - https://uk.rs-online.com/web/p/rf-ics/2344631?cm_mmc=aff2-_-uk-_-octopart-_-2344631-_-instock&gad_source=7&dclid=CJiJ6KmviY0DFZWKrAIdVvsP5A
 - detail datasheet at https://www.infineon.com/dgdl/Infineon-BGT60LTR11(S)AIP-DataSheet-v02_61-EN.pdf?fileId=8ac78c8c7c9758f2017cb7b72ee5268e
 
+- Configuration for detecting approaching objects ( https://chat.deepseek.com/a/chat/s/434fda35-5dfe-42fa-a9db-a3713471fd56)
+
 ## IWR6843ABGABL
  - data sheet at (https://www.ti.com/document-viewer/IWR6843/datasheet)
  - price - 31 $
