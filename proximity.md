@@ -23,6 +23,9 @@
  - data sheet at (https://www.ti.com/document-viewer/IWR6843/datasheet)
  - price - 31 $
 
+## BGT60TR13C
+- https://www.infineon.com/cms/en/product/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar/bgt60tr13c/
+
 # Distance Sensor
 
 - model - DTS6012M
