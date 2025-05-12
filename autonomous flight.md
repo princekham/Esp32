@@ -14,3 +14,4 @@
  
 ## For sensing GPS jammer
 - use two GPS and check the inconsistency
+- AI thread (https://chat.deepseek.com/a/chat/s/4d00b58f-036c-412c-81ca-a066d935bd23)
