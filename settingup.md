@@ -36,6 +36,12 @@ References
 
   ![image](https://github.com/user-attachments/assets/348bc6e1-c481-4d36-bf05-5d00e99a7955)
 
+## For Row, Pitch, Yaw Adjustment
+- You can turn of autotune and reduce the gain for both attitude and rates for all three
+
+  ![image](https://github.com/user-attachments/assets/0c79b810-7e92-4fd3-acab-751d66ef58ca)
+
+
 ## Radio Control
      - Skydroid H30 (page: https://www.worldronemarket.com/skydroid-h30-r30/)
      - password : 999 (source: https://www.youtube.com/watch?v=IAyYyI09_TQ&ab_channel=WorldDroneMarket)
