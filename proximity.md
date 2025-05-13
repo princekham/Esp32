@@ -1,3 +1,7 @@
+- If dropped from 3000 ft, the speed at 30 ft above the ground would be 437 ft/s
+- If from 1500 ft, the speed at 30 ft above the ground would be 308 ft/s
+- processing speed required - <50ms
+
 # Proximity Sensor
 
 - model - HLK-LD2420
