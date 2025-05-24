@@ -34,6 +34,10 @@
 ## BGT60TR13C
 - https://www.infineon.com/cms/en/product/sensor/radar-sensors/radar-sensors-for-iot/60ghz-radar/bgt60tr13c/
 
+## RCWL-0516
+- https://www.youtube.com/watch?v=JOVd3sKEFaI&ab_channel=CrazyCoupleDIY
+- https://lastminuteengineers.com/rcwl0516-microwave-radar-motion-sensor-arduino-tutorial/
+
 # Distance Sensor
 
 - model - DTS6012M
