@@ -42,6 +42,54 @@
 - https://lastminuteengineers.com/rcwl0516-microwave-radar-motion-sensor-arduino-tutorial/
 - The HB100 (10.525 GHz Doppler radar) can detect speeds up to ~300 ft/s (91.4 m/s) under ideal conditions with practical speed of 100–200 ft/s (30–60 m/s)
 
+  ```
+#include <MsTimer2.h> // Timer interrupt function
+Int ledOut = 13;
+Int count=0;
+Int pbln = 0; // Define the interrupt PIN is 0, that is, digital pins pins 2 Volatile int state = LOW; // Define ledOut, : default is of
+Void setup()
+{
+Serial.begin(9600);
+pinMode (ledOut, OUTPUT)
+attachInterrupt(pbin, stateChange, FALLING); // Sets the interrupt function, // falling edge triggered interrupts.
+
+MsTimer2::set(1000, process); // Set the timer interrupt time 1000ms
+MsTimer2::start(); // Timer interrupt start
+}
+Void loop()
+{
+Serial.println(count); // Printing times of 1000ms suspension
+Delay(1);
+If(state == HIGH) // When moving objects are detected later, 2s shut down
+// automatically after the ledout light is convenient.
+{
+Delay(2000);
+State = LOW;
+digitalWrite(ledOut, state); // Turn off led
+}
+
+}
+
+Void stateChange() // Interrupt function
+{
+Count++;
+}
+
+Void process() //Timer handler
+{
+
+If(count>1) // 1000ms interrupt number greater than 1 is considereddetected a
+// moving object (this value can be adjusted according to the actual
+// situation, equivalent to adjust the detection threshold of the speed
+// of a moving object)
+
+State HIGH;
+digitalWrite(ledOut, // Count zerale)://Lighting led
+Count=0;
+Else
+}
+```
+
 # Distance Sensor
 
 - model - DTS6012M
