@@ -8,6 +8,9 @@
 - https://docs.sparkfun.com/SparkFun_Qwiic_Pulsed_Radar_Sensor_XM125/hardware_hookup/#connecting-a-usb-and-qwiic-cable
 - https://docs.sparkfun.com/SparkFun_Qwiic_Pulsed_Radar_Sensor_XM125/assets/component_documentation/XM125_datasheet-3133248.pdf
 
+  ![image](https://github.com/user-attachments/assets/52b811a8-5aef-4f4f-bdf1-8ccc8a96b7b7)
+
+
 ## model - HLK-LD2420
 - some testing can be found at (https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/)
 - manual is available at (https://uelectronics.com/wp-content/uploads/2023/06/AR3645-LD2420-Sensor-de-Presencia-Humana-Datasheet.pdf?srsltid=AfmBOooTt_I4uQ0sFUNee2PMi0sGWq3HPKBJ8i6UkE_va0NRxrG-ETG3)
