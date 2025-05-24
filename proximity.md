@@ -42,7 +42,7 @@
 - https://lastminuteengineers.com/rcwl0516-microwave-radar-motion-sensor-arduino-tutorial/
 - The HB100 (10.525 GHz Doppler radar) can detect speeds up to ~300 ft/s (91.4 m/s) under ideal conditions with practical speed of 100–200 ft/s (30–60 m/s)
 
-  ```
+```
 #include <MsTimer2.h> // Timer interrupt function
 Int ledOut = 13;
 Int count=0;
