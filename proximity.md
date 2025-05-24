@@ -37,6 +37,7 @@
 ## RCWL-0516
 - https://www.youtube.com/watch?v=JOVd3sKEFaI&ab_channel=CrazyCoupleDIY
 - https://lastminuteengineers.com/rcwl0516-microwave-radar-motion-sensor-arduino-tutorial/
+- The HB100 (10.525 GHz Doppler radar) can detect speeds up to ~300 ft/s (91.4 m/s) under ideal conditions with practical speed of 100–200 ft/s (30–60 m/s)
 
 # Distance Sensor
 
