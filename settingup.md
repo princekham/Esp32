@@ -127,6 +127,9 @@ References
         
 ![image](https://github.com/user-attachments/assets/789c0db4-c0cf-4baa-b0a7-19ecbcdeaf56)
 
+### Ethernet port
+
+![image](https://github.com/user-attachments/assets/6b527ff1-41a1-482d-9e3e-03c833bff99a)
 
 ## servo motor (source: https://www.aliexpress.com/item/1005007384750005.html)
    - Operating Voltage: 4.8 ~ 6.8 DC Volts
