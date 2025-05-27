@@ -44,7 +44,7 @@
 ## HB 100
 - The HB100 (10.525 GHz Doppler radar) can detect speeds up to ~300 ft/s (91.4 m/s) under ideal conditions with practical speed of 100–200 ft/s (30–60 m/s)
 - The following is the codes for Arduino using hardware interrupt; in ESP 32, from https://lastminuteengineers.com/handling-esp32-gpio-interrupts-tutorial/, it seems all digital GPIO pins support hardware interrupt.
-
+- range 16 m
 ```
 #include <MsTimer2.h> // Timer interrupt function
 Int ledOut = 13;
