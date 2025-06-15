@@ -95,6 +95,30 @@ Else
 }
 ```
 
+- For ESP32, the interrupt will be as follow
+
+```
+  const uint8_t InterruptPin = 12;
+bool Request;
+
+void IRAM_ATTR isr() {
+ Request = true;
+}
+
+void setup() {
+ Serial.begin(9600);
+ pinMode(InterruptPin, INPUT);
+ attachInterrupt(InterruptPin, isr, RISING);
+}
+
+void loop() {
+ if (Request){
+   Serial.println("Interrupt Request Received!");
+   Request = false;
+ }
+}
+```
+
 # Distance Sensor
 
 - model - DTS6012M
