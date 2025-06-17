@@ -10,6 +10,9 @@
 
   ![image](https://github.com/user-attachments/assets/52b811a8-5aef-4f4f-bdf1-8ccc8a96b7b7)
 
+- can set the detection range like from 300 to 7000 mm as in the arduino example "Example09_DistanceAdvancedSettings"
+- https://docs.sparkfun.com/SparkFun_Qwiic_XM125_Arduino_Library/
+
 
 ## model - HLK-LD2420
 - some testing can be found at (https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/)
