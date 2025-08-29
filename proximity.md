@@ -21,6 +21,8 @@ You will need to set the XM125 in bootloader mode.
 - Press the RST button while still holding down the BOOT button.
 - Release the RST button.
 - After a short moment, release the BOOT button.
+- Boot button to 3.3 V
+- reset button to GND
 
 ## model - HLK-LD2420
 - some testing can be found at (https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/)
