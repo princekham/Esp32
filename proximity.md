@@ -14,7 +14,13 @@
 - https://docs.sparkfun.com/SparkFun_Qwiic_XM125_Arduino_Library/
 
 - to buy (https://th.mouser.com/ProductDetail/Acconeer/XM125?qs=amGC7iS6iy8ql%2Fsw4HBAJQ%3D%3D&srsltid=AfmBOooHcbRUJW7ViT1mwnXGpLJL7LjwHFqrljzs1qHP3R3ME9e8dtzw)
+#### Flashing XM125 (source: https://docs.sparkfun.com/SparkFun_Qwiic_Pulsed_Radar_Sensor_XM125/flashing_firmware_xm125/#flashing-firmware)
+You will need to set the XM125 in bootloader mode.
 
+- Press and hold the BOOT button.
+- Press the RST button while still holding down the BOOT button.
+- Release the RST button.
+- After a short moment, release the BOOT button.
 
 ## model - HLK-LD2420
 - some testing can be found at (https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/)
