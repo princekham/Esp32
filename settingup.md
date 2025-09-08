@@ -131,6 +131,9 @@ References
 
 ![image](https://github.com/user-attachments/assets/6b527ff1-41a1-482d-9e3e-03c833bff99a)
 
+### For Debugging
+- I am going to set computer network ethernet port IP to be 192.168.144.*
+
 ## servo motor (source: https://www.aliexpress.com/item/1005007384750005.html)
    - Operating Voltage: 4.8 ~ 6.8 DC Volts
    - Dead brand: 3mus
