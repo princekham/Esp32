@@ -88,7 +88,8 @@ References
  - The following is the standard control assignment to a radio controller (source: https://docs.px4.io/v1.11/en/flying/basic_flying.html)
 
    ![image](https://github.com/user-attachments/assets/5089db27-4990-4216-9d2a-31675b065e6f)
-
+## Qgroundcontrol settings
+- UDP, port 14450, 192.168.144.101
 
 ## Flight Modes Setup
 - The following is from https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache
@@ -177,3 +178,9 @@ How to calculate battery voltage
  - For max decent and ascent rate 'MPC_Z_VEL_MAX_DN' 'MPC_Z_VEL_MAX_UP'
  - For max decent and ascent rate in autonomous mode ' MPC_Z_V_AUTO_DN' MPC_Z_V_AUTO_UP
  - 
+## GPS F9P
+- The U-blox F9P is a multi-band, high-precision GNSS receiver that supports concurrent reception of
+-  GPS,
+-  GLONASS,
+-  Galileo, and
+-  BeiDou constellations on L1 and L5 bands, providing < 0.01m accuracy with RTK.
