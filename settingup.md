@@ -147,6 +147,10 @@ References
    - Options
       - Hobbywing UBEC 10 A (source: https://www.3dxr.co.uk/electronics-c78/power-management-c91/voltage-regulators-becs-c101/hobbywing-10a-ubec-hv-3-14s-v1-p5805)
   - He used the stick to control the servo (https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
+### Wire Connection
+- Power wire : Red
+- Ground wire : Black or Brown
+- Signal Wire : Often Orange or Yellow
 
 ## Battery Specifications: (source: https://genstattu.com/tattu-plus-3-0-22000mah-51-8v-25c-14s1p-lipo-smart-battery-pack-with-molex-plug/)
 
