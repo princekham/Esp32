@@ -161,6 +161,14 @@ References
     ### Min Max setup
     -  PWM_AUX_MIN1 : 1300
     - PWM_AUX_MAX1 : 2000
+   ### Available channels
+   - Channel 7 L1
+   - Channel 8 L2
+   - Channel 9 R1
+   - Channel 10 H
+   - Channel 11 Left knob
+   - Channel 12 Right knob
+    
 
 ### Wire Connection
 - Power wire : Red
@@ -191,7 +199,11 @@ How to calculate battery voltage
  - For landing decent rate 'mpc_land_speed'
  - For max decent and ascent rate 'MPC_Z_VEL_MAX_DN' 'MPC_Z_VEL_MAX_UP'
  - For max decent and ascent rate in autonomous mode ' MPC_Z_V_AUTO_DN' MPC_Z_V_AUTO_UP
- - 
+
+## GPS
+- Ideally, HDOP is less than 1, with anything below 2 generally considered acceptable.
+- An ideal VDOP is typically considered to be below 1.5
+- Course Over Ground (COG): The true path of the drone relative to the earth. If a strong wind is blowing from the west, pushing your drone eastward, its COG could be 30° (northeast), even though its heading is 0°.
 ## GPS F9P
 - The U-blox F9P is a multi-band, high-precision GNSS receiver that supports concurrent reception of
 -  GPS,
