@@ -155,7 +155,10 @@ References
     - RC_MAP_AUX3 : channel
     - RC_MAP_AUX4 : channel
     - RC_MAP_AUX5 : channel
-    - RC_MAP_AUX6 : channel 
+    - RC_MAP_AUX6 : channel
+      PWM_AUX_FUNC1 
+       PWM_AUX_MIN1 : 1000
+       PWM_AUX_MAX1 : 2000
 
 ### Wire Connection
 - Power wire : Red
