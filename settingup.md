@@ -148,6 +148,15 @@ References
    - Options
       - Hobbywing UBEC 10 A (source: https://www.3dxr.co.uk/electronics-c78/power-management-c91/voltage-regulators-becs-c101/hobbywing-10a-ubec-hv-3-14s-v1-p5805)
   - He used the stick to control the servo (https://www.youtube.com/watch?v=A7JpgpJadKM&ab_channel=AlexFache)
+
+    ### Servo motor channel setup
+    - RC_MAP_AUX1 : channel 
+    - RC_MAP_AUX2 : channel
+    - RC_MAP_AUX3 : channel
+    - RC_MAP_AUX4 : channel
+    - RC_MAP_AUX5 : channel
+    - RC_MAP_AUX6 : channel 
+
 ### Wire Connection
 - Power wire : Red
 - Ground wire : Black or Brown
@@ -184,3 +193,15 @@ How to calculate battery voltage
 -  GLONASS,
 -  Galileo, and
 -  BeiDou constellations on L1 and L5 bands, providing < 0.01m accuracy with RTK.
+### Dual GPS setup 
+- controlled by SENS_GPS_MASK parameter. (it allows, for example, a standard GPS to be used as a backup to a more accurate RTK receiver).
+- The SENS_GPS_MASK parameter is set by default to disable blending and always use the first receiver,
+- Where different receiver models are used, it is important that the SENS_GPS_MASK parameter is set to a value that uses accuracy metrics that are supported by both receivers. (what is accuracy metrics?)
+- The GPS_2_CONFIG parameter will need to be set correctly.
+- Check the s_variance_m_s, eph and epv data from each receiver and decide which accuracy metrics can be used.
+- s_variance_m_s
+- epv
+- eph
+- Bit position 2 would only be set if the GPS had been selected as the reference height source with the EKF2_HGT_REF parameter and both receivers output sensible epv data.
+- The output from the blended receiver data is logged as ekf_gps_position, and can be checked whilst connect via the nsh terminal using the command listener ekf_gps_position.
+- 
