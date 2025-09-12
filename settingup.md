@@ -231,4 +231,5 @@ How to calculate battery voltage
   - SER_GPS2_BAUD
   - SER_RC_BAUD (Baudrate for the Radio Controller Serial Port) (ဒါက မလိုဘူး)
   - SIH_GPS_USED (INT32)	Number of GPS satellites used (ရှာမတွေ့ဘူး)
-  - 
+  - GPS_UBX_BAUD2 (INT32) : u-blox F9P UART2 Baudrate.
+  - GPS_UBX_CFG_INTF (INT32) : u-blox protocol configuration for interfaces.
