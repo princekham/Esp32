@@ -210,6 +210,7 @@ How to calculate battery voltage
 -  GLONASS,
 -  Galileo, and
 -  BeiDou constellations on L1 and L5 bands, providing < 0.01m accuracy with RTK.
+-  site : (https://holybro.com/products/h-rtk-f9p-gnss-series?srsltid=AfmBOoqWDTHFDZxWOX8t3S3aXBp4qUV5UUxcKjw2fp7yjJR1RMMSCKrp)
 ### Dual GPS setup 
 - controlled by SENS_GPS_MASK parameter. (it allows, for example, a standard GPS to be used as a backup to a more accurate RTK receiver).
 - The SENS_GPS_MASK parameter is set by default to disable blending and always use the first receiver,
