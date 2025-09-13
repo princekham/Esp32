@@ -223,7 +223,9 @@ How to calculate battery voltage
 - Bit position 2 would only be set if the GPS had been selected as the reference height source with the EKF2_HGT_REF parameter and both receivers output sensible epv data.
 - The output from the blended receiver data is logged as ekf_gps_position, and can be checked whilst connect via the nsh terminal using the command listener ekf_gps_position.
   #### Parameters (https://docs.px4.io/v1.12/en/advanced_config/parameter_reference.html)
-  -
+  - I setup the GPS2 port as main GPS by setting GPS_1_CONFIG as GPS2 and GPS_2_CONFIG as GPS1
+  - I will put GPS1 at its place so the its YAW_GPS_OFFSET will be 0
+  - I think EKF2_GPS_YAW_OFF is for the Yaw angle of 2nd GPS
   - GPS_YAW_OFFSET (min 0 to maz 360) offset angle increases clockwise. I think the second GPS postion is about 85 degree.
   - SENS_GPS_MASK : blending မသုံးဘူးဆိုရင် 0 မှာ ထားရမယ်ထင်ပါတယ်။ (blending မသုံးတော့ဘူး)
   - SENS_GPS_PRIME : blending မသုံးတဲ့အခါမှ အကြုံးဝင်မယ်။ -1 ထားထားရင် အကောင်းဆုံး တစ်လုံးဆီက ဒေတာကို ယူမယ်။ 1 ဆိုရင်တော့ primary ကို ယူသုံးမယ်။
