@@ -27,7 +27,7 @@ git submodule update --init --recursive
 sudo usermod -aG docker $USER
 # Then log out and log back in, or run:
 newgrp docker
-'''
+```
 - This will install inside this folder
 ```
 build/px4_fmu-v6x_default/px4_fmu-v6x_default.px4
