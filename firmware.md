@@ -22,15 +22,12 @@ git submodule update --init --recursive
 ```
 ./Tools/docker_run.sh "make px4_fmu-v6x_default"
 ```
-
--I had to give permission to Docker first (recommended by DeepSeek)
-
+- I had to give permission to Docker first (recommended by DeepSeek)
 ```
 sudo usermod -aG docker $USER
 # Then log out and log back in, or run:
 newgrp docker
 '''
-
 - This will install inside this folder
 ```
 build/px4_fmu-v6x_default/px4_fmu-v6x_default.px4
