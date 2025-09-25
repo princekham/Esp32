@@ -6,6 +6,24 @@
 - cygiconv-2.dll
 - cygiconv-8.dll
 - They can be downloaded at (https://firmware.ardupilot.org/Tools/MissionPlanner/sitl/)
+
+Run the simulator
+Open a command prompt in the C:\ardu-sim folder and run the below code:
+```
+arducopter -w -S --model + --speedup 1 --defaults parameters/copter.parm -I0
+```
+Open another command prompt in the C:\ardu-sim folder and run the below code:
+
+```
+mavproxy --master tcp:127.0.0.1:5760 --out 127.0.0.1:14550 --out 127.0.0.1:14560 --daemon --no-console --non-interactive
+```
+
+Open Mission Planner and connect to the UDP port 14550 or run the below code in another command prompt started in the C:\ardu-sim folder:
+
+```
+mavproxy --master=127.0.0.1:14550
+```
+
 #### 1.Install Docker
 ```
 sudo apt update
