@@ -174,6 +174,9 @@ References
 - Power wire : Red
 - Ground wire : Black or Brown
 - Signal Wire : Often Orange or Yellow
+  
+<img width="1249" height="430" alt="image" src="https://github.com/user-attachments/assets/0de1ad43-2be2-4387-8f68-5ad305610ace" />
+
 
 ## Battery Specifications: (source: https://genstattu.com/tattu-plus-3-0-22000mah-51-8v-25c-14s1p-lipo-smart-battery-pack-with-molex-plug/)
 
