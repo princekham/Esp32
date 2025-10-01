@@ -32,8 +32,8 @@ Open Mission Planner and connect to the UDP port 14550 or run the below code in 
 mavproxy --master=127.0.0.1:14550
 ```
 
-
-
+### LUA Scripts
+- https://raw.githubusercontent.com/ArduPilot/ardupilot/master/libraries/AP_Scripting/docs/docs.lua
 
 #### Switch value
 - LOW = 0
@@ -43,3 +43,13 @@ mavproxy --master=127.0.0.1:14550
 #### Enable LUA scripts
 - Enable "SCR_ENABLE"
 
+### MAV Proxy command
+- to reboot vehicle
+  ``` reboot ```
+- to restart the scripting enging
+  ``` scripting restart```
+- to show parameters
+  ```param show RC*_OPTION```
+- to set RC option, eg:
+  ```param set RC6_OPTION 300```
+  
