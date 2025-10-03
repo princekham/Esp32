@@ -24,6 +24,26 @@ Open another command prompt in the C:\ardu-sim folder and run the below code:
 
 ```
 mavproxy --master tcp:127.0.0.1:5760 --out 127.0.0.1:14550 --out 127.0.0.1:14560 --daemon --no-console --non-interactive
+mavproxy --master tcp:127.0.0.1:5760 --out 192.168.100.11:14550 --out 192.168.100.11:14560 --daemon --no-console --non-interactive
+
+```
+- I use the following to run the simulation
+- 
+```
+sim_vehicle.py -v ArduCopter --no-mavproxy --sysid 100
+
+# Build once explicitly
+./waf configure --board sitl
+./waf copter
+
+# Then run without auto-rebuild
+sim_vehicle.py -v ArduCopter --no-mavproxy --sysid 100 --no-rebuild
+
+
+source droneswarm/bin/activate
+mavproxy.py --master=tcp:127.0.0.1:5760 --sitl=127.0.0.1:5501 --out udp:192.168.100.11:14550 
+
+
 ```
 
 Open Mission Planner and connect to the UDP port 14550 or run the below code in another command prompt started in the C:\ardu-sim folder:
