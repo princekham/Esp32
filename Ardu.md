@@ -59,11 +59,13 @@ mavproxy --master=127.0.0.1:14550
 - LOW = 0
 - MEDIUM = 1
 - HIGH = 2
+  
 
 #### Enable LUA scripts
 - Enable "SCR_ENABLE"
 
 ### MAV Proxy command
+
 - to reboot vehicle
   ``` reboot ```
 - to restart the scripting enging
@@ -72,4 +74,21 @@ mavproxy --master=127.0.0.1:14550
   ```param show RC*_OPTION```
 - to set RC option, eg:
   ```param set RC6_OPTION 300```
+- to set Switch value 
+  ```rc 6 1500 ```
+- to show Servo Function
+  ```param show SERVO*_FUNCTION ```
+- to show relay
+  ``` param show RELAY*_PIN ```
+- to load graph
+  ```module load graph```
+  ```graph SERVO_OUTPUT_RAW.servo8_raw ```
+
+### Functions
+- get_aux_switch_pos () (returns integer 0, 1, 2)
+- get_pwm (returns the RC input PWM value given a channel number. Note that channel here is indexed from 1. Returns nill if channel is not available.)
+- set_output_pwm (-- Set the pwm for a given servo output function
+---@param function_num integer -- servo function number (See SERVOx_FUNCTION parameters)
+---@param pwm integer -- pwm value
+function SRV_Channels:set_output_pwm(function_num, pwm) end)
   
