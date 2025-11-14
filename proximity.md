@@ -23,8 +23,11 @@ You will need to set the XM125 in bootloader mode.
 - After a short moment, release the BOOT button.
 - Boot button to 3.3 V
 - reset button to GND
+- wake-up pin to
+- scl, sda
 ### XM125 schematic 
 - https://docs.sparkfun.com/SparkFun_Qwiic_Pulsed_Radar_Sensor_XM125/assets/board_files/SparkFun_Qwiic_Pulsed_Coherent_Radar_Sensor_Breakout-XM125_Schematic_v10.pdf
+- Or this file (https://device.report/m/e43d5ed031930c8009de37cae095e1939ca26dabe8df0f87645280f34852cec3)
 ## model - HLK-LD2420
 - some testing can be found at (https://fritzenlab.net/2025/01/04/hilink-ultrasonic-presence-sensor/)
 - manual is available at (https://uelectronics.com/wp-content/uploads/2023/06/AR3645-LD2420-Sensor-de-Presencia-Humana-Datasheet.pdf?srsltid=AfmBOooTt_I4uQ0sFUNee2PMi0sGWq3HPKBJ8i6UkE_va0NRxrG-ETG3)
